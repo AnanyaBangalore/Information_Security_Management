@@ -1,2 +1,4 @@
 # Information_Security_Management
-This repository contains my lab files for Information Security and Management projects. The files include source code, configuration files, and output files that were created as part of my coursework.
+My lab materials for Information Security and Management projects are stored in this repository. The files were produced as a result of my coursework, and they include source code, configuration files, and output files.
+Each lab file offers a brief explanation of the project's goal and capabilities and corresponds to a particular Information Security and Management concept or application. The files are arranged according to lab sessions and cover a variety of subjects, such as secure communications, security auditing, and network security.
+Additionally, there is documentation in the lab files that gives an overview of the information security and management ideas employed as well as the outcomes. Anyone interested in information security and management, or wishing to broaden their knowledge, can use this documentation as a reference manual.
